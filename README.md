@@ -39,7 +39,7 @@
  
  
 ## About Me
-Hey, I'm Adarsh, a passionate Web Developer and a fourth-year B.Tech student specializing in Artificial Intelligence and Machine Learning at Kalasalingam Academy of Research and Education. I'm dedicated to pushing the boundaries of technology through innovative solutions and projects. My journey in computer science is fueled by a relentless pursuit of knowledge and excellence.
+Hey, I'm Hemanth, a recently graduated Computer Science Engineer with specialization in Artificial Intelligence and Machine Learning, equipped with strong technical expertise in data analysis and dynamic web technologies. I am eager to apply my skills to contribute to innovative digital solutions and drive impactful results. Passionate about leveraging technology to solve real-world problems and continuously advancing my professional growth.
 
 
 ## Skills
